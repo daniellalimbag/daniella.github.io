@@ -1,3 +1,3 @@
 # daniellalimbag.github.io
 
-An E-Portfolio for Senior High School
+A personal website/E-Portfolio for Senior High School
